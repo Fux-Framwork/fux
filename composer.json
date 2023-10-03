@@ -1,0 +1,19 @@
+{
+    "name": "fux/fux",
+    "description": "A base project structure for Fux framework based projects",
+    "authors": [
+        {
+            "name": "Matteo Fusillo",
+            "email": "58771053+mfusillo98@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "fux/framework": "0.1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
