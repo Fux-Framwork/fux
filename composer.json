@@ -9,7 +9,7 @@
     ],
     "require": {
         "ext-json": "*",
-        "fux/framework": "0.1.1"
+        "fux/framework": "dev-master"
     },
     "autoload": {
         "psr-4": {
